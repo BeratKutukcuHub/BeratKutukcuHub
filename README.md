@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Merhaba! Ben Berat
 
-<!--
-**BeratKutukcuHub/BeratKutukcuHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Web Developer  
+C#, ASP.NET MVC, Entity Framework Core, React.js, MSSQL ve MongoDB gibi teknolojilerle çalışıyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Hakkımda
+
+İstanbul'da yaşıyorum. Sivas Cumhuriyet Üniversitesi mezunuyum.  
+Üniversite yıllarımda basit form tabanlı uygulamalar geliştirerek yazılım dünyasına ilk adımımı attım.  
+Mezuniyetim sonrası yazılıma olan ilgim daha da arttı. Eğitim setleriyle teorik bilgilerimi pekiştirdim ve uygulamalı projelerle becerilerimi geliştirdim.
+
+Şu anda kendi çapımda projeler yazarak portföyümü genişletiyor, her gün yeni şeyler öğrenmeye devam ediyorum.
+
+---
+
+## 🚀 Kullandığım Teknolojiler
+
+- **Backend:** C#, ASP.NET MVC, Web API, Entity Framework, Identity
+- **Frontend:** React.js, HTML5, CSS3
+- **Database:** MSSQL, MongoDB
+- **Araçlar:** Git, GitHub, Visual Studio, Postman
+
+---
+
+## 🎯 Hedefim
+
+Yazılım geliştirme yolculuğumu daha sağlam temeller üzerine oturtmak, yeni projelerle hem kendimi geliştirmek hem de sektöre katkı sunmak istiyorum.
+
+---
+
+> 🧩 “Kod yazmak bir beceri değil, bir yolculuktur. Her satırda yeni bir şey öğreniyorum.”
