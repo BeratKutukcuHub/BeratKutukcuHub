@@ -28,6 +28,3 @@ Mezuniyetim sonrası yazılıma olan ilgim daha da arttı. Eğitim setleriyle te
 
 Yazılım geliştirme yolculuğumu daha sağlam temeller üzerine oturtmak, yeni projelerle hem kendimi geliştirmek hem de sektöre katkı sunmak istiyorum.
 
----
-
-> 🧩 “Kod yazmak bir beceri değil, bir yolculuktur. Her satırda yeni bir şey öğreniyorum.”
