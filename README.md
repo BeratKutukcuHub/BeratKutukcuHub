@@ -15,12 +15,18 @@ Mezuniyetim sonrası yazılıma olan ilgim daha da arttı. Eğitim setleriyle te
 
 ---
 
-## 🚀 Kullandığım Teknolojiler
+### Tech Stack
 
-- **Backend:** C#, ASP.NET MVC, Web API, Entity Framework, Identity
-- **Frontend:** React.js, HTML5, CSS3
-- **Database:** MSSQL, MongoDB
-- **Araçlar:** Git, GitHub, Visual Studio, Postman
+![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)  
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)  
+![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)  
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)  
+![Microsoft SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg)  
+![T-SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg)  
+![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg)  
+![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg)  
+![Material UI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg)
+
 
 ---
 
