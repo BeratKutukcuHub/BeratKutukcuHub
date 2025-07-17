@@ -1,6 +1,6 @@
-# 👋 Merhaba! Ben Berat
+# 👋 Merhaba! Ben Berat | Junior Software Developer
 
-  🧑‍💻 Junior Full Stack Software Developer | C# | Reactjs | WebApi
+🧑‍💻 Full Stack Software Developer | C# | Reactjs | WebApi
 
 ## 🌟 Hakkımda
 
@@ -17,8 +17,18 @@
 ---
 
 ### 🚀 Tech Stack | 🚀 Kullandığım Teklonojiler
+<p>
+  <!-- Git -->
+  <img src="https://cdn.simpleicons.org/git/F05032" width="24" alt="Git" />
 
-<p style="margin-top=30px; margin-bottom=30px;">
+  <!-- GitHub -->
+  <img src="https://cdn.simpleicons.org/github/181717" width="24" alt="GitHub" />
+
+  <!-- NPM -->
+  <img src="https://cdn.simpleicons.org/npm/CB3837" width="24" alt="NPM" />
+</p>
+
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" height="32" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript" />
