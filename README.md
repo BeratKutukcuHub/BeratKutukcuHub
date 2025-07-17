@@ -1,7 +1,8 @@
 # 👋 Merhaba! Ben Berat
 
-💻 Full Stack Web Developer  
-C#, ASP.NET MVC, Entity Framework Core, React.js, MSSQL ve MongoDB gibi teknolojilerle çalışıyorum.
+<p style="font=bold">
+  💻 Junior Full Stack Software Developer | C# | Reactjs | WebApi
+</p>
 
 ---
 
