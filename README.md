@@ -2,6 +2,9 @@
 
 🧑‍💻 Full Stack Software Developer | C# | Reactjs | WebApi
 
+<br>
+</br>
+
 ## 🌟 Hakkımda
 
 📍  İstanbul’da yaşıyorum. 
