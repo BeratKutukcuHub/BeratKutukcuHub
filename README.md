@@ -16,7 +16,7 @@
 
 
 
-
+------
 
 
 ### 🚀 Tech Stack | 🚀 Kullandığım Teklonojiler
@@ -44,7 +44,7 @@
 </p>
 
 
-
+------
 
 
 ### 🎯 Hedefim
