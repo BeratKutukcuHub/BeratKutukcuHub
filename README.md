@@ -17,16 +17,6 @@
 ---
 
 ### 🚀 Tech Stack | 🚀 Kullandığım Teklonojiler
-<p>
-  <!-- Git -->
-  <img src="https://cdn.simpleicons.org/git/F05032" width="24" alt="Git" />
-
-  <!-- GitHub -->
-  <img src="https://cdn.simpleicons.org/github/181717" width="24" alt="GitHub" />
-
-  <!-- NPM -->
-  <img src="https://cdn.simpleicons.org/npm/CB3837" width="24" alt="NPM" />
-</p>
 
 <p align="center">
   <!-- Programlama Dilleri -->
@@ -45,7 +35,7 @@
 
   <!-- Versiyon Kontrol ve Paket Yöneticisi -->
   <img src="https://cdn.simpleicons.org/git" width="32" height="32" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="32" height="32" alt="GitHub" />
+  <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub Gradient" width="32" height="32"/>
   <img src="https://cdn.simpleicons.org/npm" width="32" height="32" alt="npm" />
 
   <!-- Diğer Teknolojiler -->
