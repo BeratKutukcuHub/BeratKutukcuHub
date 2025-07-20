@@ -28,31 +28,11 @@
   <img src="https://cdn.simpleicons.org/npm/CB3837" width="24" alt="NPM" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/npm-%23FFFFFF?style=flat-square&logo=npm&logoColor=white&labelColor=6e40c9" />
-<img src="https://img.shields.io/badge/EF_Core-%23FFFFFF?style=flat-square&logo=dotnet&logoColor=white&labelColor=6e40c9" />
-<img src="https://img.shields.io/badge/VS_Code-%23FFFFFF?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=6e40c9" />
-<img src="https://img.shields.io/badge/Visual_Studio-%23FFFFFF?style=flat-square&logo=visual-studio&logoColor=white&labelColor=6e40c9" />
-<img src="https://img.shields.io/badge/T--SQL-%23FFFFFF?style=flat-square&logo=sql-server&logoColor=white&labelColor=6e40c9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" height="32" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="32" height="32" alt="MSSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" height="32" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" height="32" alt="CSS3" />
-    <img src="https://deviconapi.vercel.app/github?color=181717&size=40" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="32" height="32"/>
-   <img src="https://deviconapi.vercel.app/tailwindcss?color=06B6D4&size=40" alt="Tailwind CSS" width="32" height="32"/>
-  
-
-
-</p>
 <p align="center">
   <!-- Programlama Dilleri -->
   <img src="https://cdn.simpleicons.org/javascript" width="32" height="32" alt="JavaScript" />
   <img src="https://cdn.simpleicons.org/typescript" width="32" height="32" alt="TypeScript" />
-  <img src="https://cdn.simpleicons.org/csharp" width="32" height="32" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" height="32" alt="C#" />
   <img src="https://cdn.simpleicons.org/microsoftsqlserver" width="32" height="32" alt="MSSQL" />
   <img src="https://cdn.simpleicons.org/html5" width="32" height="32" alt="HTML5" />
   <img src="https://cdn.simpleicons.org/css3" width="32" height="32" alt="CSS3" />
@@ -65,7 +45,7 @@
 
   <!-- Versiyon Kontrol ve Paket Yöneticisi -->
   <img src="https://cdn.simpleicons.org/git" width="32" height="32" alt="Git" />
-  <img src="https://cdn.simpleicons.org/github" width="32" height="32" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="32" height="32" alt="GitHub" />
   <img src="https://cdn.simpleicons.org/npm" width="32" height="32" alt="npm" />
 
   <!-- Diğer Teknolojiler -->
