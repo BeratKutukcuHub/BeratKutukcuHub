@@ -23,6 +23,7 @@
 
 
 </br>
+
 ### 🚀 Tech Stack | 🚀 Kullandığım Teklonojiler
 
 <p>
@@ -46,6 +47,7 @@
   <img src="https://cdn.simpleicons.org/npm" width="32" height="32" alt="npm" />
 
 </p>
+
 <br>
 
 
