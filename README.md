@@ -33,7 +33,7 @@
   <img src="https://cdn.simpleicons.org/javascript" width="32" height="32" alt="JavaScript" />
   <img src="https://cdn.simpleicons.org/typescript" width="32" height="32" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" height="32" alt="C#" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver" width="32" height="32" alt="MSSQL" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="32" height="32" alt="MSSQL Logo" />
   <img src="https://cdn.simpleicons.org/html5" width="32" height="32" alt="HTML5" />
   <img src="https://cdn.simpleicons.org/css3" width="32" height="32" alt="CSS3" />
 
