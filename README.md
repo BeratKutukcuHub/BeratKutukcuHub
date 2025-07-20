@@ -15,7 +15,6 @@
 💡 Algoritmalar üzerine çalışıyorum ve LLM (Large Language Model) entegrasyonları ile projelerimi daha modüler hale getirmeye odaklandım ve şu anda kendi projelerimi geliştirerek portföyümü genişletiyorum. 
 
 <br>
-
 </br>
 
 ------
@@ -50,8 +49,6 @@
 ------
 
 <br>
-
-
 </br>
 
 
