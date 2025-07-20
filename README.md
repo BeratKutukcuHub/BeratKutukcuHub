@@ -14,7 +14,10 @@
 
 💡 Algoritmalar üzerine çalışıyorum ve LLM (Large Language Model) entegrasyonları ile projelerimi daha modüler hale getirmeye odaklandım ve şu anda kendi projelerimi geliştirerek portföyümü genişletiyorum. 
 
----
+
+
+
+
 
 ### 🚀 Tech Stack | 🚀 Kullandığım Teklonojiler
 
@@ -38,11 +41,13 @@
   <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub Gradient" width="32" height="32"/>
   <img src="https://cdn.simpleicons.org/npm" width="32" height="32" alt="npm" />
 
-  
 </p>
----
 
-## 🎯 Hedefim
+
+
+
+
+### 🎯 Hedefim
 
 Yazılım sektöründe saygı gören bir geliştirici olmayı ve gelecekte genç yeteneklere eğitim verebilmeyi çok istiyorum.
 
