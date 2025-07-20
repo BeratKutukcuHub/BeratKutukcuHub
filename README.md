@@ -23,7 +23,7 @@
 ------
 
 
-## 🚀 Tech Stack | 🚀 Kullandığım Teklonojiler
+### 🚀 Tech Stack | 🚀 Kullandığım Teklonojiler
 
 <br>
 </br>
@@ -55,7 +55,7 @@
 </br>
 
 
-## 🎯 Hedefim
+### 🎯 Hedefim
 
 Yazılım sektöründe saygı gören bir geliştirici olmayı ve gelecekte genç yeteneklere eğitim verebilmeyi çok istiyorum.
 
