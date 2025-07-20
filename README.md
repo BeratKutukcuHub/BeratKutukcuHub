@@ -29,11 +29,11 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/npm-%23FFFFFF?style=for-the-badge&logo=npm&logoColor=white&labelColor=6e40c9" />
-<img src="https://img.shields.io/badge/EF_Core-%23FFFFFF?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=6e40c9" />
-<img src="https://img.shields.io/badge/VS_Code-%23FFFFFF?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=6e40c9" />
-<img src="https://img.shields.io/badge/Visual_Studio-%23FFFFFF?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=6e40c9" />
-<img src="https://img.shields.io/badge/T--SQL-%23FFFFFF?style=for-the-badge&logo=sql-server&logoColor=white&labelColor=6e40c9" />
+  <img src="https://img.shields.io/badge/npm-%23FFFFFF?style=flat-square&logo=npm&logoColor=white&labelColor=6e40c9" />
+<img src="https://img.shields.io/badge/EF_Core-%23FFFFFF?style=flat-square&logo=dotnet&logoColor=white&labelColor=6e40c9" />
+<img src="https://img.shields.io/badge/VS_Code-%23FFFFFF?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=6e40c9" />
+<img src="https://img.shields.io/badge/Visual_Studio-%23FFFFFF?style=flat-square&logo=visual-studio&logoColor=white&labelColor=6e40c9" />
+<img src="https://img.shields.io/badge/T--SQL-%23FFFFFF?style=flat-square&logo=sql-server&logoColor=white&labelColor=6e40c9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" height="32" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript" />
