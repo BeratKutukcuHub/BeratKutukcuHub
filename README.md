@@ -18,7 +18,7 @@
 
 ### 🚀 Tech Stack | 🚀 Kullandığım Teklonojiler
 
-<p align="center">
+<p>
   <!-- Programlama Dilleri -->
   <img src="https://cdn.simpleicons.org/javascript" width="32" height="32" alt="JavaScript" />
   <img src="https://cdn.simpleicons.org/typescript" width="32" height="32" alt="TypeScript" />
@@ -38,8 +38,6 @@
   <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub Gradient" width="32" height="32"/>
   <img src="https://cdn.simpleicons.org/npm" width="32" height="32" alt="npm" />
 
-  <!-- Diğer Teknolojiler -->
-  <img src="https://cdn.simpleicons.org/vercel" width="32" height="32" alt="Vercel" />
   
 </p>
 ---
