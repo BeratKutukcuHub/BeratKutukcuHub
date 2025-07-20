@@ -46,8 +46,6 @@
   <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub Gradient" width="32" height="32"/>
   <img src="https://cdn.simpleicons.org/npm" width="32" height="32" alt="npm" />
 </p>
-<br>
-</br>
 
 ------
 
