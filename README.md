@@ -45,10 +45,33 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="32" height="32"/>
    <img src="https://deviconapi.vercel.app/tailwindcss?color=06B6D4&size=40" alt="Tailwind CSS" width="32" height="32"/>
   
-</svg>
+
 
 </p>
+<p align="center">
+  <!-- Programlama Dilleri -->
+  <img src="https://cdn.simpleicons.org/javascript" width="32" height="32" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/typescript" width="32" height="32" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/csharp" width="32" height="32" alt="C#" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver" width="32" height="32" alt="MSSQL" />
+  <img src="https://cdn.simpleicons.org/html5" width="32" height="32" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/css3" width="32" height="32" alt="CSS3" />
 
+  <!-- Frameworkler -->
+  <img src="https://cdn.simpleicons.org/tailwindcss" width="32" height="32" alt="Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/bootstrap" width="32" height="32" alt="Bootstrap" />
+  <img src="https://cdn.simpleicons.org/react" width="32" height="32" alt="React" />
+  <img src="https://cdn.simpleicons.org/dotnet" width="32" height="32" alt="EF Core (.NET)" />
+
+  <!-- Versiyon Kontrol ve Paket Yöneticisi -->
+  <img src="https://cdn.simpleicons.org/git" width="32" height="32" alt="Git" />
+  <img src="https://cdn.simpleicons.org/github" width="32" height="32" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/npm" width="32" height="32" alt="npm" />
+
+  <!-- Diğer Teknolojiler -->
+  <img src="https://cdn.simpleicons.org/vercel" width="32" height="32" alt="Vercel" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode" width="32" height="32" alt="VS Code" />
+</p>
 ---
 
 ## 🎯 Hedefim
