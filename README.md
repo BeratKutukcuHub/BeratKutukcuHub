@@ -34,7 +34,7 @@
   <img src="https://cdn.simpleicons.org/typescript" width="32" height="32" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" height="32" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="MSSQL" width="32" height="32" />
-  <img src="https://cdn.simpleicons.org/html5" width="32" height="32" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/html5" width="30" height="30" alt="HTML5" />
  <img src="https://img.icons8.com/color/48/000000/css3.png" width="34" height="34" alt="CSS3" />
 
   <!-- Frameworkler -->
